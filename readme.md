@@ -1,5 +1,5 @@
 Demo
-* <a href="https://radiocontrolled.github.io/CSS3-timeline/index.html">http://radiocontrolled.github.io/css-timeline</a>
+* <a href="https://radiocontrolled.github.io/CSS3-timeline/index.html">https://radiocontrolled.github.io/CSS3-timeline/index.html</a>
  
 Features
 * a pure CSS3 timeline

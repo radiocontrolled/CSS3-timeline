@@ -2,7 +2,7 @@ Demo
 * <a href="http://radiocontrolled.github.io/css-timeline">http://radiocontrolled.github.io/css-timeline</a>
  
 Features
-* pure CSS3 timeline
+* a pure CSS3 timeline
 * responsively designed
 
 Tested on
